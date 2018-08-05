@@ -1,0 +1,2 @@
+ORIGIN_BUCKET=myoriginbucket/folder
+DESTINATION_BUCKET=mydestinationbucket/folder1/subfolder
